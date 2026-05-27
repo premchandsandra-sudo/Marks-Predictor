@@ -122,7 +122,7 @@ python "Marks Predictor LR.py"
 ## Scikit-learn Version
 
 ```bash
-python "Marka Predictor LR sklearn.py"
+python "Marks Predictor LR sklearn.py"
 ```
 
 ---
